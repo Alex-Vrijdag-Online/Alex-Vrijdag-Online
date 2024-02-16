@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex-Vrijdag-Online
+- 👋 Hi, I’m Alexander
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning Umbraco
 - 💞️ I’m looking to collaborate on web development with key interersts on SPA
